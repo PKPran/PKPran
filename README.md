@@ -1,74 +1,85 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Praneeth;Full+Stack+Developer;Valorant+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,45,60&height=220&section=header&text=PKPran&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Building%20Systems%20%7C%20Clicking%20Heads%20%7C%20Riding%20Adv&descAlignY=55&descSize=20" alt="Header" />
+  
+  <br/>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PKPran&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="PKPran" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=756BF0&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Python+%26+React+Specialist;KTM+390+Adv+Rider+%F0%9F%8F%8D%EF%B8%8F;Valorant+Grinder+(NRG+Fanboy)" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/praneethkakathkar-b9a7191a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
 <br/>
 
-### :zap: About Me
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ About Me</h3>
+      <blockquote>
+        "I build scalable backend systems and sleek frontends. When I'm not coding, I'm probably tuning my Keychron or aiming for Radiant."
+      </blockquote>
+      <br/>
+      
+      🔭 **Current Work:** <br/>
+      Developing high-performance modules for **Confidential Freelance Clients**.
+      <br/><br/>
+      🌱 **Learning:** <br/>
+      Deep diving into **AWS Serverless Architectures** & **Generative AI integration**.
+      <br/><br/>
+      🏍️ **AFK Mode:** <br/>
+      Riding my **KTM 390 Adventure (2023)** through the hills or watching **sOm** clips.
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🚀 Tech Arsenal</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,react,ts,aws,docker,git,linux,postgres,fastapi,django,html,css,vscode,figma&perline=4&theme=dark" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-> *"I don't just write code; I build systems."*
-
-- :briefcase: I’m currently working on **Confidential Freelance Projects** 🤫
-- :rocket: I’m currently exploring **React Framer Motion, AWS, and Generative AI Integration**
-- :speech_balloon: Ask me about **PC Building (Ryzen 9 + RTX 3060 gang)** or **Mechanical Keyboards (Keychron enthusiast)**.
-- :video_game: Fun fact: I'm a massive **Valorant** fan (NRG supporter!) and when AFK, I'm riding my **KTM 390 Adventure**.
-
----
-
-### :hammer_and_wrench: The Arsenal
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <h3>📊 GitHub Analytics</h3>
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PKPran&theme=tokyonight&hide_border=true&background=00000000&ring=79ff97&currStreakNum=79ff97" alt="Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PKPran&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=79ff97" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=PKPran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true&title_color=79ff97&icon_color=bb9af7" alt="Main Stats" />
 </div>
 
----
+<br/>
 
-### :computer: My Setup
+<h3 align="center">🖥️ Battle Station</h3>
+<div align="center">
+  <code>
+    <img src="https://img.shields.io/badge/CPU-Ryzen_9_5900X-FF4500?style=flat-square&logo=amd&logoColor=white" />
+    <img src="https://img.shields.io/badge/GPU-RTX_3060_12GB-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+    <img src="https://img.shields.io/badge/Keyboard-Keychron_K2_V2-333333?style=flat-square&logo=keyboard&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mouse-Razer_Viper_V3-00FF00?style=flat-square&logo=razer&logoColor=black" />
+  </code>
+</div>
 
-| **Component** | **Specs** |
-| :--- | :--- |
-| :brain: **CPU** | AMD Ryzen 9 5900X |
-| :art: **GPU** | RTX 3060 12GB |
-| :keyboard: **Keeb** | Keychron K2 V2 |
-| :mouse: **Mouse** | Razer Viper V3 Pro |
-
----
-
-### :bar_chart: Stats
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PKPran&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PKPran&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PKPran&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PKPran&theme=radical&hide_border=true" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PKPran&theme=rogue" width="100%" alt="activity graph"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PKPran&style=flat-square&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PKPran&style=for-the-badge&color=756BF0&label=PROFILE+VIEWS" alt="profile views" />
 </div>
